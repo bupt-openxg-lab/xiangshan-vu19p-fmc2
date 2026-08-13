@@ -1,0 +1,29 @@
+# Local configuration and credentials
+config.env
+*.lic
+
+# Prepared upstream source and generated output
+work/
+logs/
+artifacts/
+
+# Vivado generated files
+.Xil/
+*.jou
+*.str
+*.wdb
+*.bit
+*.bin
+*.dcp
+*.xpr
+*.cache/
+*.gen/
+*.hw/
+*.ip_user_files/
+*.runs/
+*.sim/
+
+# Editor and OS files
+*~
+.DS_Store
+

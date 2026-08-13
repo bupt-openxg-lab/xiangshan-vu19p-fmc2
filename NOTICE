@@ -1,0 +1,7 @@
+This repository contains board-adaptation work derived from OpenXiangShan
+minjie-playground and env-scripts. Upstream revision information and original
+project links are recorded in manifests/upstream-versions.md.
+
+The board constraints and DDR configuration target the Phine Design
+PD-VU19P-2-LSI Solo platform with a UV-FMCH-PDDR4DME daughter card installed
+at FMC2.
